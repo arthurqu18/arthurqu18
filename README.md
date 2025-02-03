@@ -1,4 +1,4 @@
-## Hi there 👋
+## Arthur Gomes 👋
 
 <!--
 **arthurqu18/arthurqu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
